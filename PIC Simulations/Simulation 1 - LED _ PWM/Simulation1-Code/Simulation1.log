@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4431 -DL -O11111114 -fo20 -N"D:\_Projects\TURTLE.v1\Simulations\Simulation 1 - LED & PWM\Simulation1-Code\Simulation1.mcppi" -SP"D:\Program Files\mikroC PRO for PIC\Defs\" -SP"D:\Program Files\mikroC PRO for PIC\uses\P18\" -SP"D:\_Projects\TURTLE.v1\Simulations\Simulation 1 - LED & PWM\Simulation1-Code\" -IP"D:\Program Files\mikroC PRO for PIC\uses\P18\" "Simulation1.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 747 [bytes], Available ROM: 16384 [bytes]	 
+diagnostics: 0	122	Compilation Started	Simulation1.c
+diagnostics: 136	123	Compiled Successfully	Simulation1.c
+diagnostics: 0	127	All files Compiled in 46 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 745 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 745 (99%)
+hint: 0	1144	Used ROM (bytes): 236 (1%)  Free ROM (bytes): 16148 (99%)	Used ROM (bytes): 236 (1%)  Free ROM (bytes): 16148 (99%)
+diagnostics: 0	125	Project Linked Successfully	Simulation1.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'Simulation1.mcppi' completed: 109 ms	 
+diagnostics: 0	103	Finished successfully: 14 Feb 2021, 06:39:41	Simulation1.mcppi

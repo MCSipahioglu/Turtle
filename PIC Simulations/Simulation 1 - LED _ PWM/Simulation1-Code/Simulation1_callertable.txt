@@ -1,0 +1,4 @@
+main
+	setup_IO
+	setup_Init
+	pwm_demo
